@@ -37,6 +37,7 @@ env:
   DIY_P1_SH: JDCloud-AX1800-Pro_AX6600/diy-part1.sh
   DIY_P2_SH: JDCloud-AX1800-Pro_AX6600/diy-part2.sh
   SSH_ACTIONS: false
+  UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
