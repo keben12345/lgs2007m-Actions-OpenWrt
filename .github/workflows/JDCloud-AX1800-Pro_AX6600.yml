@@ -30,7 +30,7 @@ env:
   ###############手动修改##############
   OPENWRT_NAME: lede
   UPLOAD_TAG_NAME: jdcloud-ax1800-pro_ax6600
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/keben12345/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: JDCloud-AX1800-Pro_AX6600/.config
